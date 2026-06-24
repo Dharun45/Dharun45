@@ -23,4 +23,4 @@ Seeking for Software Engineer Role
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Dharun_45?theme=dark&font=Noto%20Sans%20Vai&colors=%23)](https://leetcode.com/hareeshprogrammer)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
