@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Dharun
 
 Seeking for Software Engineer Role
-<img align="right" width="390" height="275" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                        
+<img align="right" width="390" height="275" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                   
 - I’m Actively learning DSA, building with Java & Spring Boot, and integrating AI to level up my dev workflow.I also work with selenium to Automate web browsers.
 - Done Internship at [<img src="https://img.icons8.com/ios-filled/50/ibm.png" style="filter: brightness(0) invert(1);" />](https://skillsbuild.org/),
 - Social Presence
